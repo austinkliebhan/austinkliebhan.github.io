@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Maratahons!"
-summary: "Getting Started using devlopr-jekyll"
+summary: "Weather is ripe to run!"
 author: Austin Kliebhan
 date: '2023-10-16 12:00:00 +0530'
 category: running
